@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>icons/back.svg</file>
+	<file>icons/forward.svg</file>
+	<file>icons/justify-center.svg</file>
+	<file>icons/justify-fill.svg</file>
+	<file>icons/justify-left.svg</file>
+	<file>icons/justify-right.svg</file>
+	<file>icons/list-add.svg</file>
+	<file>icons/list-remove.svg</file>
+	<file>icons/note.png</file>
+	<file>icons/notes.svg</file>
+	<file>icons/search.svg</file>
+	<file>icons/text-bold.svg</file>
+	<file>icons/text-italic.svg</file>
+	<file>icons/text-strikethrough.svg</file>
+	<file>icons/text-underline.svg</file>
+	<file>icons/clear.svg</file>
+</qresource>
+</RCC>
