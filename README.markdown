@@ -24,7 +24,7 @@ Jasmine is a desktop note-taking application built with C++ and the Qt framework
 ### Build Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/jasmine.git
+   git clone https://github.com/vrrv64/jasmine.git
    cd jasmine
    ```
 
