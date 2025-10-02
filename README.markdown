@@ -11,8 +11,7 @@ Jasmine is a desktop note-taking application built with C++ and the Qt framework
 - **Image and Text File Support**: Drag-and-drop images and text files into notes, with automatic image scaling for optimal display.
 - **Search and Filtering**: Real-time note filtering using a custom proxy model to search by title and content.
 - **Persistent Storage**: Uses SQLite for reliable data storage, with settings preserved via QSettings for consistent user experience across sessions.
-- **Customizable UI**: Dark/light mode-aware color palette, custom list view rendering, and keyboard shortcuts for enhanced usability.
-- **Hyperlink Support**: Automatically detects and formats URLs as clickable hyperlinks.
+- **Hyperlink Support**: Formats URLs as clickable hyperlinks.
 
 ## Installation
 
