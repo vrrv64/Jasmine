@@ -2,7 +2,7 @@
 
 Jasmine is a desktop note-taking application built with C++ and the Qt framework, designed to provide a clean, intuitive interface for organizing and managing notes. It supports folder-based organization, rich text editing, image embedding, and efficient note searching, making it a versatile tool for personal and professional use.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/screenshot1.png)
 
 ## Features
 
